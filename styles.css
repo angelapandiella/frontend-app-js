@@ -1,0 +1,17 @@
+#contenedor-productos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+article {
+  border: 1px solid #ddd;
+  padding: 1rem;
+}
+
+article img {
+  width: 150px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}

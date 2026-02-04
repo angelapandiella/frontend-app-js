@@ -1,0 +1,20 @@
+[
+  {
+    "id": "prod_004",
+    "nombre": "Camiseta Técnica Transpirable",
+    "precio": 24.99,
+    "imagen_url": "img/camiseta.jpg"
+  },
+  {
+    "id": "prod_005",
+    "nombre": "Mallas Cortas Running",
+    "precio": 32.50,
+    "imagen_url": "img/mallas.jpg"
+  },
+  {
+    "id": "prod_006",
+    "nombre": "Zapatilla Trail Impermeable",
+    "precio": 119.95,
+    "imagen_url": "img/zapatilla.jpg"
+  }
+]
